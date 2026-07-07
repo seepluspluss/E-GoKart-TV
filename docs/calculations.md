@@ -18,7 +18,7 @@ Diese Übersicht dient zur Berechnung von Übersetzung, Drehmoment und Endgeschw
 
 ## ⚡ 2. Performance-Simulation (Soll-Werte mit B&R Motor)
 
-Sobald Herr Bala uns die exakten Motordaten (Nenndrehzahl und Drehmoment) schickt, tragen wir sie hier ein, um die echte Performance zu berechnen.
+Sobald Herr Tutzer uns die exakten Motordaten (Nenndrehzahl und Drehmoment) schickt, tragen wir sie hier ein, um die echte Performance zu berechnen.
 
 | Parameter | Formel für Excel | Wert (Beispiel 6000 U/min) | Status |
 | :--- | :--- | :---: | :--- |
