@@ -45,4 +45,4 @@ Sollte die Endgeschwindigkeit bei der Simulation mit über **90 km/h** zu hoch s
 
 
 
-[🔗 Hier geht es zur Live-Excel-Berechnung (Google Sheets)](https://docs.google.com/spreadsheets/d/1rTTlmsxOaWPoelF8dfGwfKrU060xiymMCltuo6tPZT8/edit?usp=sharing)
+🔗 [Hier geht es zur Live-Excel-Berechnung (Google Sheets)](https://docs.google.com/spreadsheets/d/1rTTlmsxOaWPoelF8dfGwfKrU060xiymMCltuo6tPZT8/edit?usp=sharing)
