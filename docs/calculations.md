@@ -8,8 +8,8 @@ Diese Übersicht dient zur Berechnung von Übersetzung, Drehmoment und Endgeschw
 
 | Parameter | Symbol | Gemessener Wert | Formel / Quelle |
 | :--- | :---: | :---: | :--- |
-| **Zähnezahl Achse (Groß)** | $Z_2$ | **83** | Messung Werkstatt |
-| **Zähnezahl Motor (Klein)** | $Z_1$ | **28** | Messung Werkstatt |
+| **Zähnezahl Achse (Groß)** | $Z_2$ | **83** | Messung |
+| **Zähnezahl Motor (Klein)** | $Z_1$ | **28** | Messung |
 | **Übersetzungsverhältnis** | $i$ | **2,96** | $i = Z_2 / Z_1$ |
 | **Reifendurchmesser hinten**| $D$ | *ca. 260 mm* | Noch exakt zu messen |
 | **Reifenumfang** | $U$ | **0,817 m** | $U = \pi \cdot D$ |
