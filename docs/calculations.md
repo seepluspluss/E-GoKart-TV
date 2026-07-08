@@ -9,8 +9,8 @@ Diese Übersicht dient zur Berechnung von Übersetzung, Drehmoment und Endgeschw
 | Parameter | Symbol | Gemessener Wert | Formel / Quelle |
 | :--- | :---: | :---: | :--- |
 | **Zähnezahl Achse (Groß)** | $Z_2$ | **83** | Messung |
-| **Zähnezahl Motor (Klein)** | $Z_1$ | **28** | Messung |
-| **Übersetzungsverhältnis** | $i$ | **2,96** | $i = Z_2 / Z_1$ |
+| **Zähnezahl Motor (Klein)** | $Z_1$ | **15** | Messung |
+| **Übersetzungsverhältnis** | $i$ | **5,5333** | $i = Z_2 / Z_1$ |
 | **Reifendurchmesser hinten**| $D$ | *ca. 260 mm* | Noch exakt zu messen |
 | **Reifenumfang** | $U$ | **0,817 m** | $U = \pi \cdot D$ |
 
@@ -22,9 +22,9 @@ Sobald Herr Tutzer uns die exakten Motordaten (Nenndrehzahl und Drehmoment) schi
 
 | Parameter | Formel für Excel | Wert (Beispiel 6000 U/min) | Status |
 | :--- | :--- | :---: | :--- |
-| **Max. Motordrehzahl** | *Herstellerangabe* | **4.500 U/min** | Wartet auf B&R |
-| **Max. Achsdrehzahl** | `=Motordrehzahl / i` | **2.027 U/min** | Berechnet |
-| **Top-Speed (Theorie)** | `=(Achsdrehzahl * U * 60) / 1000` | **99,4 km/h** | Berechnet |
+| **Nenn. Motordrehzahl** | *Herstellerangabe* | **4.500 U/min** | Wartet auf B&R |
+| **Max. Achsdrehzahl** | `=Motordrehzahl / i` | **813,25 U/min** | Berechnet |
+| **Top-Speed (Theorie)** | `=(Achsdrehzahl * U * 60) / 1000` | **39,58 km/h** | Berechnet |
 | **Nenndrehmoment Motor**| *Herstellerangabe* | *tbd Nm* | Wartet auf B&R |
 | **Drehmoment an der Achse**| `=Motordrehmoment * i * 2` | *tbd Nm* | (Für beide Motoren) |
 
