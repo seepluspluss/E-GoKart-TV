@@ -33,8 +33,8 @@ Sobald Herr Tutzer uns die exakten Motordaten (Nenndrehzahl und Drehmoment) schi
 ## ⚙️ Excel-Formel-Spickzettel für das Team
 
 Wenn du die Tabelle in Excel nachbaust, nutze diese Logik für die Zellen (Beispiel):
-* **Zelle A1:** `6000` (Motordrehzahl)
-* **Zelle A2:** `2,96` (Übersetzung)
+* **Zelle A1:** `4,500` (Motordrehzahl)
+* **Zelle A2:** `5,5333` (Übersetzung)
 * **Zelle A3:** `0,817` (Reifenumfang in Metern)
 * **Formel für km/h in Zelle A4:** `=(A1 / A2 * A3 * 60) / 1000`
 
