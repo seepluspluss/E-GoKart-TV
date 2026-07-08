@@ -20,9 +20,9 @@ Diese Übersicht dient zur Berechnung von Übersetzung, Drehmoment und Endgeschw
 
 Sobald Herr Tutzer uns die exakten Motordaten (Nenndrehzahl und Drehmoment) schickt, tragen wir sie hier ein, um die echte Performance zu berechnen.
 
-| Parameter | Formel für Excel | Wert (Beispiel 6000 U/min) | Status |
+| Parameter | Formel für Excel | Wert (Beispiel 4.500 U/min) | Status |
 | :--- | :--- | :---: | :--- |
-| **Nenn. Motordrehzahl** | *Herstellerangabe* | **4.500 U/min** | Wartet auf B&R |
+| **Max. Motordrehzahl** | *Herstellerangabe* | **9.000 U/min** | Wartet auf B&R |
 | **Max. Achsdrehzahl** | `=Motordrehzahl / i` | **813,25 U/min** | Berechnet |
 | **Top-Speed (Theorie)** | `=(Achsdrehzahl * U * 60) / 1000` | **39,58 km/h** | Berechnet |
 | **Nenndrehmoment Motor**| *Herstellerangabe* | *tbd Nm* | Wartet auf B&R |
