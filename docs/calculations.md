@@ -22,7 +22,7 @@ Sobald Herr Tutzer uns die exakten Motordaten (Nenndrehzahl und Drehmoment) schi
 
 | Parameter | Formel für Excel | Wert (Beispiel 6000 U/min) | Status |
 | :--- | :--- | :---: | :--- |
-| **Max. Motordrehzahl** | *Herstellerangabe* | **6.000 U/min** | Wartet auf B&R |
+| **Max. Motordrehzahl** | *Herstellerangabe* | **4.500 U/min** | Wartet auf B&R |
 | **Max. Achsdrehzahl** | `=Motordrehzahl / i` | **2.027 U/min** | Berechnet |
 | **Top-Speed (Theorie)** | `=(Achsdrehzahl * U * 60) / 1000` | **99,4 km/h** | Berechnet |
 | **Nenndrehmoment Motor**| *Herstellerangabe* | *tbd Nm* | Wartet auf B&R |
